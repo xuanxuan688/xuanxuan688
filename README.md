@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xuanxuan688
-- 👀 I’m interested in Python, SQL, A/B Testing
+- 👀 I’m interested in Python, SQL, R, Machine Learning, A/B Testing
 - 🌱 I’m currently learning ML models and applications 
 - 💞️ I’m looking to collaborate on everything about data analytics
 - 📫 How to reach me yuxuanp@smu.edu
