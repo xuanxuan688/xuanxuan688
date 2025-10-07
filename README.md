@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, SQL, R, Machine Learning, A/B Testing
 - 🌱 I’m currently learning ML models and applications 
 - 💞️ I’m looking to collaborate on everything about data analytics
-- 📫 How to reach me yuxuanp@smu.edu
+- 📫 How to reach me xuangeni7@gmail.com
 
 <!---
 xuanxuan688/xuanxuan688 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
